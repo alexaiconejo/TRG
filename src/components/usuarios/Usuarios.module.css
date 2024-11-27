@@ -1,0 +1,53 @@
+.usuarios {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .usuario {
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  
+  .alexCircle {
+    background-color: violet;
+    border-radius: 50%;
+    padding: 10px;
+  }
+  
+  .invitadxsCircle {
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  .defaultCircle {
+    background-color: grey;
+    border-radius: 50%;
+    padding: 10px;
+  }
+  
+  .addUserCircle {
+    background-color: black;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .addUserButton {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  

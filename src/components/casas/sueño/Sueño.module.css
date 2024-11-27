@@ -1,0 +1,24 @@
+@keyframes cambioColor {
+    0% {
+      background-color: #001f3f;
+    }
+    25% {
+      background-color: #0074D9;
+    }
+    50% {
+      background-color: #7FDBFF;
+    }
+    75% {
+      background-color: #39CCCC;
+    }
+    100% {
+      background-color: #001f3f;
+    }
+  }
+  
+  .sueno {
+    width: 100vw;
+    height: 100vh;
+    animation: cambioColor 10s infinite;
+  }
+  

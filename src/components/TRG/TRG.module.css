@@ -1,0 +1,60 @@
+.trg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+  }
+  
+  .menuWheel {
+    position: relative;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .menuButton {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ddd;
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  .login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .passwordInput {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .loginButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  
+  .menuButton:nth-child(1) { top: 0; left: 50%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(2) { top: 25%; left: 85%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(3) { top: 75%; left: 85%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(4) { top: 100%; left: 50%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(5) { top: 75%; left: 15%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(6) { top: 25%; left: 15%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(7) { top: 50%; left: 0; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(8) { top: 50%; left: 100%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(9) { top: 10%; left: 50%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(10) { top: 90%; left: 50%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(11) { top: 10%; left: 10%; transform: translate(-50%, -50%); }
+  .menuButton:nth-child(12) { top: 90%; left: 90%; transform: translate(-50%, -50%); }
+  

@@ -1,0 +1,25 @@
+.categoriasList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .categoriaItem {
+    margin-bottom: 10px;
+  }
+  
+  .toggleButton {
+    background-color: #f4f4f4;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+  }
+  
+  .contactosList {
+    list-style-type: none;
+    padding: 10px 0 10px 20px;
+    margin: 0;
+  }
+  

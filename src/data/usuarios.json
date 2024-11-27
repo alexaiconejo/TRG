@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Alex",
+      "role": "SuperAdmin",
+      "image": "/path/to/alex-image.png"
+    },
+    {
+      "id": 2,
+      "name": "Invitadx",
+      "role": "Visitor",
+      "image": "/path/to/invitadx-image.png"
+    }
+  ]
+  

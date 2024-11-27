@@ -1,0 +1,9 @@
+{
+    "lunes": ["19:00 - Entrenamiento"],
+    "martes": ["Día de descanso o actividad libre"],
+    "miércoles": ["14:00 - Clase de música", "19:00 - Entrenamiento"],
+    "jueves": ["Día de planificación"],
+    "viernes": ["15:30 - Terapia", "19:00 - Entrenamiento"],
+    "sábado": ["Actividades sociales o personales"],
+    "domingo": ["Tiempo de relajación o hobbies"]
+}

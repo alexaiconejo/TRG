@@ -1,0 +1,23 @@
+.nutricion {
+    padding: 20px;
+  }
+  
+  .nutricion h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .nutricion h3 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .nutricion ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .nutricion li {
+    margin-bottom: 10px;
+  }
+  

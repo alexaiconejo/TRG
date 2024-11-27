@@ -1,0 +1,10 @@
+[
+    {"time": "08:00 - 10:00", "activity": "Desayuno"},
+    {"time": "10:00 - 12:00", "activity": "Jornada matutina"},
+    {"time": "12:00 - 15:00", "activity": "Almuerzo"},
+    {"time": "15:00 - 21:00", "activity": "Actividades de trabajo"},
+    {"time": "21:00 - 23:00", "activity": "Cena"},
+    {"time": "23:00 - 02:00", "activity": "Trasnoche"},
+    {"time": "03:00 - 06:00", "activity": "Nocturno"},
+    {"time": "06:00 - 08:00", "activity": "Madrugada"}
+]
